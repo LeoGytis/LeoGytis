@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gytis</h1>
-- 🌱 I’m currently learning **Laravel/Symfony, JS/React**
+- 🌱 I’m currently learning Laravel/Symfony and JS/React
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **leogytis@gmail.com**
+You can contact me **leogytis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
