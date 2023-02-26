@@ -1,3 +1,4 @@
+Styled-components project:
 https://leogytis.github.io/education/
 
 <h3 align="left">Languages and Tools:</h3>
