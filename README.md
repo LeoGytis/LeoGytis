@@ -1,17 +1,7 @@
-<a href="https://leogytis.github.io/">My portfolio page</a>
-<a href="https://leogytis.github.io/e-study/">Styled-components project with React</a>
-<a href="https://leogytis.github.io/braintech/">BIT school collaborate project with plain JavaScript</a>
-<a href="https://leogytis.github.io/gridster/">Gridster</a>
-
-Styled-components project with React:
-https://leogytis.github.io/education/](https://leogytis.github.io/e-study/
-
-BIT school collaborate project with plain JavaScript:
-https://leogytis.github.io/braintech/
-
-Gridster:
-https://leogytis.github.io/gridster/
-
+<a href="https://leogytis.github.io/">My portfolio page</a><br>
+<a href="https://leogytis.github.io/e-study/">Styled-components project with React</a><br>
+<a href="https://leogytis.github.io/braintech/">BIT school collaborate project with plain JavaScript</a><br>
+<a href="https://leogytis.github.io/gridster/">Gridster</a><br>
 
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
