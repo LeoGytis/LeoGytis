@@ -5,15 +5,14 @@
 <a href="https://leogytis.github.io/gridster/">Gridster</a><br>
 
 <h2>Languages & Tools:</h2>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
+<a href="https://www.w3schools.com/css/" title="Laravel"><img src="icons/css.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
+<a href="https://styled-components.com/" title="Laravel"><img src="icons/styled-components.png" /></a>
 
 <h2>Reach me out</h2><br>
 
