@@ -1,7 +1,7 @@
-Portfolio page: https://portfolio-umber-eight-66.vercel.app/
+Portfolio page: [https://portfolio-umber-eight-66.vercel.app/](https://leogytis.github.io/)
 
-Styled-components project:
-https://leogytis.github.io/education/
+Styled-components project with React:
+[https://leogytis.github.io/education/](https://leogytis.github.io/e-study/)
 
 
 <h3 align="left">Front-end:</h3>
