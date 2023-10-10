@@ -1,4 +1,4 @@
-<h1>Projects:</h1>h1><br>
+<h1>Projects:</h1><br>
 <a href="https://leogytis.github.io/">My portfolio page</a><br>
 <a href="https://leogytis.github.io/e-study/">Styled-components project with React</a><br>
 <a href="https://leogytis.github.io/braintech/">BIT school collaborate project with plain JavaScript</a><br>
