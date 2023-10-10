@@ -5,7 +5,7 @@
 <a href="https://leogytis.github.io/gridster/">Gridster</a><br>
 
 <h2>Languages & Tools:</h2>
-<a href="https://www.w3schools.com/css/" title="Laravel"><img src="icons/css.png" /></a>
+<a href="https://www.w3schools.com/css/" title="css"><img src="icons/css.png" width="60" height="32" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
