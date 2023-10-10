@@ -13,7 +13,6 @@
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" width="50" height="50" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" width="50" height="50"/></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" width="50" height="50"/></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" width="50" height="50"/></a>
 <a href="https://redux.js.org/" title="React"><img src="icons/redux.png" width="50" height="50"/></a>
 <a href="https://reactrouter.com/en/main" title="React"><img src="icons/react-router.png" width="100" height="50"/></a>
