@@ -9,12 +9,14 @@
 <a href="https://www.w3schools.com/css/" title="css"><img src="icons/css2.png" width="50" height="64" /></a>
 <a href="https://styled-components.com/" title="Laravel"><img src="icons/styled-components.png" width="50" height="50"/></a>
 <a href="https://tailwindcss.com/" title="Laravel"><img src="icons/tailwind.png" width="80" height="40"/></a>
-<a href="https://bootsrap.com/" title="Laravel"><img src="icons/bootsrap.png" width="50" height="50"/></a>
+<a href="https://bootsrap.com/" title="Laravel"><img src="icons/bootsrap.png" width="50" height="50"/></a><br>
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://redux.js.org/" title="React"><img src="icons/redux.png" /></a>
+<a href="https://reactrouter.com/en/main" title="React"><img src="icons/react-router.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 
