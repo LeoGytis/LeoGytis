@@ -1,4 +1,4 @@
-<h2>Projects:</h2><br>
+<h2>Projects:</h2>
 <a href="https://leogytis.github.io/">My portfolio page</a><br>
 <a href="https://leogytis.github.io/e-study/">Styled-components project with React</a><br>
 <a href="https://leogytis.github.io/braintech/">BIT school collaborate project with plain JavaScript</a><br>
@@ -21,3 +21,4 @@
 <h2>Reach me out:</h2>
 <a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn"><img src="icons/linkedin.png" width="50" height="50"/></a>
 <a href="https://www.instagram.com/leogytis/" title="Instagram"><img src="icons/instagram.png" width="50" height="50"/></a>
+<a href="mailto:leogytis@gmail.com" title="Instagram"><img src="icons/gmail.png" width="50" height="50"/></a>
