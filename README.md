@@ -19,6 +19,5 @@
 
 <h2>Reach me out</h2><br>
 
-[![GitHub](icons/github.png)](https://github.com/leogytis)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/leogytis/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/leogytis/)
