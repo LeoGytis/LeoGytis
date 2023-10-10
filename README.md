@@ -1,5 +1,7 @@
-Portfolio page: https://leogytis.github.io/
-<a href="https://leogytis.github.io/"> Portfolio page</a>
+<a href="https://leogytis.github.io/">My portfolio page</a>
+<a href="https://leogytis.github.io/e-study/">Styled-components project with React</a>
+<a href="https://leogytis.github.io/braintech/">BIT school collaborate project with plain JavaScript</a>
+<a href="https://leogytis.github.io/gridster/">Gridster</a>
 
 Styled-components project with React:
 https://leogytis.github.io/education/](https://leogytis.github.io/e-study/
