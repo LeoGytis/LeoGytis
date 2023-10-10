@@ -1,7 +1,13 @@
-Portfolio page: [https://portfolio-umber-eight-66.vercel.app/](https://leogytis.github.io/)
+Portfolio page: https://leogytis.github.io/
 
 Styled-components project with React:
-[https://leogytis.github.io/education/](https://leogytis.github.io/e-study/)
+https://leogytis.github.io/education/](https://leogytis.github.io/e-study/
+
+BIT school collaborate project with plain JavaScript:
+https://leogytis.github.io/braintech/
+
+Gridster:
+https://leogytis.github.io/gridster/
 
 
 <h3 align="left">Front-end:</h3>
