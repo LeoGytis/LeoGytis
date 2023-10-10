@@ -8,8 +8,9 @@
 <a href="https://www.w3schools.com/html/" title="css"><img src="icons/css.png" width="25" height="32" /></a>
 <a href="https://www.w3schools.com/css/" title="css"><img src="icons/html.png" width="25" height="32" /></a>
 <a href="https://styled-components.com/" title="Laravel"><img src="icons/styled-components.png" width="32" height="32"/></a>
-<a href="https://tailwindcss.com/" title="Laravel"><img src="icons/tailwind.png" width="48" height="32"/></a>
-<a href="https://bootsrap.com/" title="Laravel"><img src="icons/bootsrap.png" width="48" height="32"/></a>
+<a href="https://tailwindcss.com/" title="Laravel"><img src="icons/tailwind.png"/></a>
+<!-- <a href="https://bootsrap.com/" title="Laravel"><img src="icons/bootsrap.png" width="48" height="32"/></a> -->
+<a href="https://bootsrap.com/" title="Laravel"><img src="icons/bootsrap.png"/></a>
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
