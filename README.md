@@ -11,16 +11,15 @@
 <a href="https://tailwindcss.com/" title="Laravel"><img src="icons/tailwind.png" width="80" height="40"/></a>
 <a href="https://bootsrap.com/" title="Laravel"><img src="icons/bootsrap.png" width="50" height="50"/></a><br>
 
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://redux.js.org/" title="React"><img src="icons/redux.png" /></a>
-<a href="https://reactrouter.com/en/main" title="React"><img src="icons/react-router.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" width="50" height="50" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" width="50" height="50"/></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" width="50" height="50"/></a>
+<a href="https://redux.js.org/" title="React"><img src="icons/redux.png" width="50" height="50"/></a>
+<a href="https://reactrouter.com/en/main" title="React"><img src="icons/react-router.png" width="100" height="50"/></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" width="50" height="50"/></a>
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="50" height="50"/></a>
 
-<h2>Reach me out</h2><br>
-
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/leogytis/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/leogytis/)
+<h2>Reach me out:</h2>
+<a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn"><img src="icons/linkedin.png" width="50" height="50"/></a>
+<a href="https://www.instagram.com/leogytis/" title="Instagram"><img src="icons/instagram.png" width="50" height="50"/></a>
