@@ -18,7 +18,7 @@
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" width="60" height="40"/></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="50" height="50"/></a>
 
-<h2>Reach me out:</h2>
+<h3>Reach me out:</h3>
 <a href="https://www.instagram.com/leogytis/" title="Instagram"><img src="icons/instagram.png" width="30" height="30"/></a>
 <a href="https://www.facebook.com/divergytis" title="Facebook"><img src="icons/facebook.png" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn"><img src="icons/linkedin.png" width="30" height="30"/></a>
