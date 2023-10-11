@@ -21,4 +21,4 @@
 <h2>Reach me out:</h2>
 <a href="https://www.instagram.com/leogytis/" title="Instagram"><img src="icons/instagram.png" width="50" height="50"/></a>
 <a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn"><img src="icons/linkedin.png" width="50" height="50"/></a>
-<a href="mailto:leogytis@gmail.com" title="Instagram"><img src="icons/gmail.png" width="50" height="50"/></a>
+<a href="mailto:leogytis@gmail.com" title="Instagram"><img src="icons/gmail2.png" width="50" height="50"/></a>
