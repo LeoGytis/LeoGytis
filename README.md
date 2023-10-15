@@ -19,6 +19,6 @@
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="50" height="50"/></a>
 
 <h2>Reach me out:</h2>
-<a href="https://www.facebook.com/divergytis" title="Facebook" style="padding-right: 20px;"><img src="icons/facebook.png" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn" style="padding-right: 20px;"><img src="icons/linkedin.png" width="30" height="30"/></a>
+<a href="https://www.facebook.com/divergytis" title="Facebook" style="padding-right: 20px"><img src="icons/facebook.png" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn" style="padding-right: 20px"><img src="icons/linkedin.png" width="30" height="30"/></a>
 <a href="mailto:leogytis@gmail.com" title="Gmail"><img src="icons/gmail.png" width="30" height="28"/></a>
