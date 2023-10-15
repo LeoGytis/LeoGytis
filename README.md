@@ -21,5 +21,5 @@
 <h2>Reach me out:</h2>
 
 <a href="https://www.facebook.com/divergytis" title="Facebook" style="margin-right: 20px"><img src="icons/facebook.png" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<dl><dd><a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn" style="padding-right: 20px"><img src="icons/linkedin.png" width="30" height="30"/></a> </dd></dl>
+<a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn" style="padding-right: 20px"><img src="icons/linkedin.png" width="30" height="30"/></a> &ensp;, &emsp;, &thinsp;
 <a href="mailto:leogytis@gmail.com" title="Gmail"><img src="icons/gmail.png" width="30" height="28"/></a>
