@@ -30,6 +30,7 @@
 
 
 <h2>More about me:</h2>
+<div>👨‍🍳 Kitchen Chef (+10 years)</div>
 <div>🏍️ Motorcycling 3 seasons</div>
 <div>🤿 ScubaDiving +600 dives (Lithuanian lakes, Red Sea, Norwegian coast)</div>
 <div>🏂 Snowboarding 2 seasons (Norway, Standalsætra)</div>
