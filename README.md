@@ -7,7 +7,7 @@
 <a href="https://leogytis.github.io/braintech/">Braintech (Plain JavaScript coolaborate project at BIT coding school)</a><br>
 <a href="https://leogytis.github.io/gridster/">Gridster (Pathfinding project to show use cases of libraries)</a><br>
 
-<h2>⚙️ 🕹️ 🛠️ 🧰 🧬  Languages & Tools:</h2>
+<h2>🕹️ Languages & Tools:</h2>
 <a href="https://www.w3schools.com/html/" title="html"><img src="icons/html.png" width="64" height="64" /></a>
 <a href="https://www.w3schools.com/css/" title="css"><img src="icons/css.png" width="50" height="64" /></a>
 <a href="https://styled-components.com/" title="styled"><img src="icons/styled-components.png" width="50" height="50"/></a>
@@ -21,7 +21,7 @@
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" width="60" height="40"/></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="50" height="50"/></a>
 
-<h2>📧  📨 Reach me out:</h2>
+<h2>📧 Reach me out:</h2>
 
 <a href="https://www.facebook.com/divergytis" title="Facebook" style="margin-right: 20px"><img src="icons/facebook.png" width="30" height="30"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn" style="padding-right: 20px"><img src="icons/linkedin.png" width="30" height="30"/></a> &nbsp;
