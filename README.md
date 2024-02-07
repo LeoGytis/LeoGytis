@@ -1,13 +1,14 @@
 <h2>👋 Introduction </h2>
 Software engineer with Bachelor’s degree in computer science skilled in creating web applications. Dedicated creating efficient, well-functioning software that delivers intuitive, pixel-perfect user experiences. Passionate about tech, coding with energy and enthusiasm!
 
-<h2>🖥️ Projects:</h2>
+<h2>Projects:</h2>
 <a href="https://leogytis.github.io/">Portfolio page</a><br>
 <a href="https://leogytis.github.io/e-study/">E-study (project with TypeScript/React and Styled-components)</a><br>
 <a href="https://leogytis.github.io/braintech/">Braintech (Plain JavaScript coolaborate project at BIT coding school)</a><br>
 <a href="https://leogytis.github.io/gridster/">Gridster (Pathfinding project to show use cases of libraries)</a><br>
 
-<h2>🕹️ Languages & Tools:</h2>
+
+<h2>Languages & Tools:</h2>
 <a href="https://www.w3schools.com/html/" title="html"><img src="icons/html.png" width="64" height="64" /></a>
 <a href="https://www.w3schools.com/css/" title="css"><img src="icons/css.png" width="50" height="64" /></a>
 <a href="https://styled-components.com/" title="styled"><img src="icons/styled-components.png" width="50" height="50"/></a>
@@ -21,7 +22,8 @@ Software engineer with Bachelor’s degree in computer science skilled in creati
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" width="60" height="40"/></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="50" height="50"/></a>
 
-<h2>⛳ More about me:</h2>
+
+<h2>More about me:</h2>
 <div>🏍️ Motorcycling 3 seasons</div>
 <div>🤿 ScubaDiving +600 dives (Lithuanian lakes, Red Sea, Norwegian coast)</div>
 <div>🏂 Snowboarding 2 seasons (Norway, Standalsætra)</div>
@@ -34,8 +36,7 @@ Software engineer with Bachelor’s degree in computer science skilled in creati
 
 
 
-<h2>📧 Reach me out:</h2>
-
+<h2>Reach me out:</h2>
 <a href="https://www.facebook.com/divergytis" title="Facebook" style="margin-right: 20px"><img src="icons/facebook.png" width="30" height="30"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn" style="padding-right: 20px"><img src="icons/linkedin.png" width="30" height="30"/></a> &nbsp;
 <a href="mailto:leogytis@gmail.com" title="Gmail"><img src="icons/gmail.png" width="30" height="27"/></a>
