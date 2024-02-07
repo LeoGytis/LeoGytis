@@ -1,9 +1,11 @@
 <h2>👋 Introduction </h2>
-- Software engineer with Bachelor’s degree in computer science.
-- Skilled in creating web applications.
-- Dedicated to creating efficient, well-functioning software.
-- Focuses on delivering intuitive, pixel-perfect user experiences.
-- Passionate about technology and coding with energy and enthusiasm.
+<ul>
+  <li>Software engineer with Bachelor’s degree in computer science.</li>
+  <li>Skilled in creating web applications.</li>
+  <li>Dedicated to creating efficient, well-functioning software.</li>
+  <li>Focuses on delivering intuitive, pixel-perfect user experiences.</li>
+  <li>Passionate about technology and coding with energy and enthusiasm!</li>
+</ul>
 
 <h2>Projects:</h2>
 <a href="https://leogytis.github.io/">Portfolio page</a><br>
