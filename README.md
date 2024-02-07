@@ -1,5 +1,5 @@
 <h2>👋 Introduction </h2>
-
+Software engineer with Bachelor’s degree in computer science skilled in creating web applications. Dedicated creating efficient, well-functioning software that delivers intuitive, pixel-perfect user experiences. Passionate about tech, coding with energy and enthusiasm!
 
 <h2>🖥️ Projects:</h2>
 <a href="https://leogytis.github.io/">Portfolio page</a><br>
@@ -20,6 +20,11 @@
 <a href="https://redux.js.org/" title="Redux"><img src="icons/redux.png" width="40" height="50"/></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" width="60" height="40"/></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="50" height="50"/></a>
+
+<h2>📧 More about me:</h2>
+<span>🏍️ Motorcycling 3 seasons</span>
+<span>🤿 ScubaDiving +600 dives (Lithuanian lakes, Red Sea, Norwegian coast)</span>
+
 
 <h2>📧 Reach me out:</h2>
 
