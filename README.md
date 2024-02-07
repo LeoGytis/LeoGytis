@@ -1,4 +1,7 @@
-<h2>Projects:</h2>
+<h2> ## 👋 Introduction </h2>
+
+
+<h2> Projects:</h2>
 <a href="https://leogytis.github.io/">Portfolio page</a><br>
 <a href="https://leogytis.github.io/e-study/">E-study (project with TypeScript/React and Styled-components)</a><br>
 <a href="https://leogytis.github.io/braintech/">Braintech (Plain JavaScript coolaborate project at BIT coding school)</a><br>
