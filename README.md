@@ -22,8 +22,8 @@ Software engineer with Bachelor’s degree in computer science skilled in creati
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="50" height="50"/></a>
 
 <h2>📧 More about me:</h2>
-<span>🏍️ Motorcycling 3 seasons</span>
-<span>🤿 ScubaDiving +600 dives (Lithuanian lakes, Red Sea, Norwegian coast)</span>
+<div>🏍️ Motorcycling 3 seasons</div>
+<div>🤿 ScubaDiving +600 dives (Lithuanian lakes, Red Sea, Norwegian coast)</div>
 
 
 <h2>📧 Reach me out:</h2>
