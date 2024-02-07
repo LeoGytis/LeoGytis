@@ -36,8 +36,8 @@
 <div>🪁 KiteBoarding (from 8 knots to 40knots at Norway, Vigra island)</div>
 <div>🤿 Freediving (PB's: 51m depth, 6:53min static, 75m Fins, 50 noFins)</div>
 <div>🛩️ SkyDiving (75 Jumps)</div
-<div>🌄 Hiking (Countless of kilometers)</div>
-<div>🧉 Pottery hobby</div>
+<div>⛺ Hiking (Countless of kilometers)</div>
+<div>🧉  Pottery hobby</div>
 <div>🌱 Gardening</div>
 
 
