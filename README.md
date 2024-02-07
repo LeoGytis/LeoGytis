@@ -1,8 +1,8 @@
 <h2>Projects:</h2>
-<a href="https://leogytis.github.io/">My portfolio page</a><br>
-<a href="https://leogytis.github.io/e-study/">Styled-components project with React</a><br>
-<a href="https://leogytis.github.io/braintech/">BIT school collaborate project with plain JavaScript</a><br>
-<a href="https://leogytis.github.io/gridster/">Gridster</a><br>
+<a href="https://leogytis.github.io/">Portfolio page</a><br>
+<a href="https://leogytis.github.io/e-study/">E-study (project with TypeScript/React and Styled-components)</a><br>
+<a href="https://leogytis.github.io/braintech/">Braintech (Plain JavaScript coolaborate project at BIT coding school)</a><br>
+<a href="https://leogytis.github.io/gridster/">Gridster (Pathfinding project to show use cases of libraries)</a><br>
 
 <h2>Languages & Tools:</h2>
 <a href="https://www.w3schools.com/html/" title="html"><img src="icons/html.png" width="64" height="64" /></a>
