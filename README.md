@@ -1,5 +1,9 @@
 <h2>👋 Introduction </h2>
-Software engineer with Bachelor’s degree in computer science skilled in creating web applications. Dedicated creating efficient, well-functioning software that delivers intuitive, pixel-perfect user experiences. Passionate about tech, coding with energy and enthusiasm!
+- Software engineer with Bachelor’s degree in computer science.
+- Skilled in creating web applications.
+- Dedicated to creating efficient, well-functioning software.
+- Focuses on delivering intuitive, pixel-perfect user experiences.
+- Passionate about technology and coding with energy and enthusiasm.
 
 <h2>Projects:</h2>
 <a href="https://leogytis.github.io/">Portfolio page</a><br>
@@ -28,7 +32,7 @@ Software engineer with Bachelor’s degree in computer science skilled in creati
 <div>🤿 ScubaDiving +600 dives (Lithuanian lakes, Red Sea, Norwegian coast)</div>
 <div>🏂 Snowboarding 2 seasons (Norway, Standalsætra)</div>
 <div>🪁 KiteBoarding (from 8 knots to 40knots at Norway, Vigra island)</div>
-<div>🤿 Freediving (PB's: 51m depth, 6:53 static, 75m Fins, 50 noFins)</div>
+<div>🤿 Freediving (PB's: 51m depth, 6:53min static, 75m Fins, 50 noFins)</div>
 <div>🛩️SkyDiving (75 Jumps)</div
 <div>🌄 Hiking (Countless of kilometers)</div>
 <div>🧉 Pottery hobby</div>
