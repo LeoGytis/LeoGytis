@@ -33,7 +33,7 @@
 <div>👨‍🍳 Kitchen Chef (+10 years)</div>
 <div>🏍️ Motorcycling 3 seasons</div>
 <div>🤿 ScubaDiving +600 dives (Lithuanian lakes, Red Sea, Norwegian coast)</div>
-<div>🏂 Snowboarding 2 seasons (Norway, Standalsætra)</div>
+<div>🏂 Snowboarding 2 seasons (Norway, Stranda)</div>
 <div>🪁 KiteBoarding (from 8 knots to 40knots at Norway, Vigra island)</div>
 <div>🤿 Freediving (PB's: 51m depth, 6:53min static, 75m Fins, 50 noFins)</div>
 <div>🛩️ SkyDiving (75 Jumps)</div
