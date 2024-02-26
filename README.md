@@ -15,7 +15,7 @@
 
 
 <h2>Languages & Tools:</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <a href="https://www.w3schools.com/html/" title="html"><img src="icons/html.png" width="64" height="64" /></a>
 <a href="https://www.w3schools.com/css/" title="css"><img src="icons/css.png" width="50" height="64" /></a>
 <a href="https://styled-components.com/" title="styled"><img src="icons/styled-components.png" width="50" height="50"/></a>
