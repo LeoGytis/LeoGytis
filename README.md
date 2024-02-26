@@ -13,7 +13,7 @@
 <a href="https://leogytis.github.io/braintech/">Braintech (Plain JavaScript coolaborate project at BIT coding school)</a><br>
 <a href="https://leogytis.github.io/gridster/">Gridster (Pathfinding project to show use cases of libraries)</a><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h2>Languages & Tools:</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
