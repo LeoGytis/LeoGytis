@@ -4,7 +4,7 @@
   <li>Skilled in creating web applications.</li>
   <li>Dedicated to creating efficient, well-functioning software.</li>
   <li>Focuses on delivering intuitive, pixel-perfect user experiences.</li>
-  <li>Passionate about technology and coding with energy and enthusiasm!</li>
+  <li>Passionate about technology and coding with energy and enthusiasm</li>
 </ul>
 
 <h2>Projects:</h2>
