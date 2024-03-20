@@ -1,0 +1,26 @@
+VS Code + Extensions
+•	Auto import - sometimes imports simply does not work
+•	Bookmarks - bookmark code lines in the project
+•	Halcyon Theme - VS Code Theme code coloring
+•	Prettier - for code formatting
+•	Turbo Console Log - to fast shortcut the console.log
+
+Chrome Extentions (more used for styling)
+•	Click Color Picker - pick up the color
+•	CSSViewer - fast view of css with mouse hover
+•	GoFullPage - full page screen capture
+•	Image Downloader - download all the images at once
+•	JSON Formatter - format json files for easier view
+•	Pesticide - check container alignments
+•	Super Reloader - hard reload with a mouse click
+•	SVG Export - export svg
+•	Tracking Time - track working time
+•	VisBug - easy repositioning/adjusting elements on a go
+•	Web Vitals - metrics for the page
+•	What font - pops the font on hover
+
+Helpers
+•	Github Dekstop - easy access to project + can launch to vscode projects at the same time
+•	Postamn - comfortable API managing application
+•	paint.net - light version like photoshop
+•	Lightshot - quick screenshot capture with coloring tools
