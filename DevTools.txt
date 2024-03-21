@@ -18,6 +18,7 @@ Chrome Extentions (more used for styling)
 •	VisBug - easy repositioning/adjusting elements on a go
 •	Web Vitals - metrics for the page
 •	What font - pops the font on hover
+• Notes: Keep Sticky Thoughts in Google Drive
 
 Helpers
 •	Github Dekstop - easy access to project + can launch to vscode projects at the same time
