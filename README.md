@@ -16,25 +16,11 @@
 
 
 <h2>Languages & Tools:</h2>
-<!-- <a href="https://www.w3schools.com/html/" title="html"><img src="icons/html.png" width="64" height="64" /></a>
-<a href="https://www.w3schools.com/css/" title="css"><img src="icons/css.png" width="50" height="64" /></a>
-<a href="https://styled-components.com/" title="styled"><img src="icons/styled-components.png" width="50" height="50"/></a>
-<a href="https://tailwindcss.com/" title="Tailwind"><img src="icons/tailwind.png" width=60" height="40"/></a>
-<a href="https://bootsrap.com/" title="Bootstrap"><img src="icons/bootsrap.png" width="50" height="50"/></a><br><br> -->
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,materialui,styledcomponents,tailwind,bootstrap)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux)](https://skillicons.dev)
 
 
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" width="50" height="50" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" width="50" height="50"/></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" width="50" height="50"/></a>
-<a href="https://nextjs.org/" title="React"><img src="icons/next.png" width="50" height="50"/></a>
-<a href="https://redux.js.org/" title="Redux"><img src="icons/redux.png" width="40" height="50"/></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" width="60" height="40"/></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="50" height="50"/></a>
+[![My Skills](https://skillicons.dev/icons?i=html,css,materialui,styledcomponents,tailwind,bootstrap)](https://leogytis.github.io/)
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux)](https://leogytis.github.io/)
 
 <h2>More about me:</h2>
 <div>👨‍🍳 Kitchen Chef (+10 years)</div>
