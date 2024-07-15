@@ -19,8 +19,9 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,materialui,styledcomponents,tailwind,bootstrap)](https://leogytis.github.io/)
-
+<br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux)](https://leogytis.github.io/)
+<br><br>
 
 <h2>More about me:</h2>
 <div>👨‍🍳 Kitchen Chef (+10 years)</div>
