@@ -16,13 +16,13 @@
 
 
 <h2>Languages & Tools:</h2>
-<a href="https://www.w3schools.com/html/" title="html"><img src="icons/html.png" width="64" height="64" /></a>
+<!-- <a href="https://www.w3schools.com/html/" title="html"><img src="icons/html.png" width="64" height="64" /></a>
 <a href="https://www.w3schools.com/css/" title="css"><img src="icons/css.png" width="50" height="64" /></a>
 <a href="https://styled-components.com/" title="styled"><img src="icons/styled-components.png" width="50" height="50"/></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="icons/tailwind.png" width=60" height="40"/></a>
-<a href="https://bootsrap.com/" title="Bootstrap"><img src="icons/bootsrap.png" width="50" height="50"/></a><br><br>
+<a href="https://bootsrap.com/" title="Bootstrap"><img src="icons/bootsrap.png" width="50" height="50"/></a><br><br> -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,materialui,styledcomponents,tailwind,boostrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,materialui,styledcomponents,tailwind,bootstrap)]
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" width="50" height="50" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" width="50" height="50"/></a>
