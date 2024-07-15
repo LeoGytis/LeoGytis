@@ -21,7 +21,8 @@
 <a href="https://styled-components.com/" title="styled"><img src="icons/styled-components.png" width="50" height="50"/></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="icons/tailwind.png" width=60" height="40"/></a>
 <a href="https://bootsrap.com/" title="Bootstrap"><img src="icons/bootsrap.png" width="50" height="50"/></a><br><br>
-https://skillicons.dev/icons?i=js,html,css,wasm
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" width="50" height="50" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" width="50" height="50"/></a>
