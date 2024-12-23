@@ -20,17 +20,17 @@
 <h3>Personal</h3>
 <ul>
   <li><a href="https://leogytis.github.io/">Portfolio page</a> - A showcase of personal projects and skills.</li>
+  <li><a href="https://leogytis.github.io/imageshub/">ImagesHub</a> - Project fetches images with Flickr API implementing both infinite scroll and lazy loading</li>
+  <li><a href="https://leogytis.github.io/checkouter/">Checkouter</a> - Small project for payment checkout</li>
+  <li><a href="https://leogytis.github.io/ip_royal/">IP Royal</a> - Interactive dashboard using Tailwind and TypeScript and Vue.js framework.</li>
+  <li><a href="https://github.com/LeoGytis/acterio">Acterio API</a> - Project, fetching data from the DummyJSON API and sending requests made in Next.js </li>
   <li><a href="https://leogytis.github.io/e-study/">E-study</a> - A project built with TypeScript, React, and Styled-components.</li>
   <li><a href="https://leogytis.github.io/braintech/">Braintech</a> - A collaborative project using plain JavaScript, created at BIT coding school.</li>
   <li><a href="https://leogytis.github.io/gridster/">Gridster</a> - A pathfinding project demonstrating use cases of libraries.</li>
-</ul>
-
-
+</ul><br>
 
 
 <h2>Languages & Tools:</h2>
-
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,materialui,styledcomponents,tailwind,bootstrap)](https://leogytis.github.io/)
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://leogytis.github.io/)
