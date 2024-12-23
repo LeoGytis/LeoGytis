@@ -8,6 +8,13 @@
 </ul>
 
 <h2>Projects:</h2>
+<h3>Professional</h3>
+<a href="https://acertip.com/">An innovative platform that unites architects, engineers and constructors.</a><br>
+<a href="https://www.acterio.com/">The definitive all-in-one management software designed for innovation ecosystems.</a><br>
+<a href="https://sris.biip.lt/">Protected Species Information System</a><br>
+<a href="https://medeja.lt/">Home made vine and beer accessories e-shop</a><br>
+<a href="https://futbolobatai.lt/">Football shoes e-shop</a><br>
+<h3>Personal</h3>
 <a href="https://leogytis.github.io/">Portfolio page</a><br>
 <a href="https://leogytis.github.io/e-study/">E-study (project with TypeScript/React and Styled-components)</a><br>
 <a href="https://leogytis.github.io/braintech/">Braintech (Plain JavaScript coolaborate project at BIT coding school)</a><br>
