@@ -8,12 +8,15 @@
 </ul>
 
 <h2>Projects:</h2>
-### Professional Projects
-- [Acertip](https://acertip.com/) - An innovative platform that unites architects, engineers, and constructors.
-- [Acterio](https://www.acterio.com/) - The definitive all-in-one management software designed for innovation ecosystems.
-- [Protected Species Information System](https://sris.biip.lt/) - A system for managing protected species information.
-- [Medeja](https://medeja.lt/) - Home-made wine and beer accessories e-shop.
-- [Futbolobatai](https://futbolobatai.lt/) - Football shoes e-shop.
+<h3>Professional Projects</h3>
+<ul>
+  <li><a href="https://acertip.com/">Acertip</a> - An innovative platform that unites architects, engineers, and constructors.</li>
+  <li><a href="https://www.acterio.com/">Acterio</a> - The definitive all-in-one management software designed for innovation ecosystems.</li>
+  <li><a href="https://sris.biip.lt/">Protected Species Information System</a> - A system for managing protected species information.</li>
+  <li><a href="https://medeja.lt/">Medeja</a> - Home-made wine and beer accessories e-shop.</li>
+  <li><a href="https://futbolobatai.lt/">Futbolobatai</a> - Football shoes e-shop.</li>
+</ul>
+
 
 
 <h3>Professional</h3>
