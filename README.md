@@ -8,28 +8,23 @@
 </ul>
 
 <h2>Projects:</h2>
-<h3>Professional Projects</h3>
+<h3>Professional</h3>
 <ul>
   <li><a href="https://acertip.com/">Acertip</a> - An innovative platform that unites architects, engineers, and constructors.</li>
   <li><a href="https://www.acterio.com/">Acterio</a> - The definitive all-in-one management software designed for innovation ecosystems.</li>
-  <li><a href="https://sris.biip.lt/">Protected Species Information System</a> - A system for managing protected species information.</li>
+  <li><a href="https://sris.biip.lt/">SRIS</a> - A system for managing protected species information.</li>
   <li><a href="https://medeja.lt/">Medeja</a> - Home-made wine and beer accessories e-shop.</li>
   <li><a href="https://futbolobatai.lt/">Futbolobatai</a> - Football shoes e-shop.</li>
 </ul>
 
-
-
-<h3>Professional</h3>
-<a href="https://acertip.com/">An innovative platform that unites architects, engineers and constructors.</a><br>
-<a href="https://www.acterio.com/">The definitive all-in-one management software designed for innovation ecosystems.</a><br>
-<a href="https://sris.biip.lt/">Protected Species Information System</a><br>
-<a href="https://medeja.lt/">Home made vine and beer accessories e-shop</a><br>
-<a href="https://futbolobatai.lt/">Football shoes e-shop</a><br><br>
 <h3>Personal</h3>
-<a href="https://leogytis.github.io/">Portfolio page</a><br>
-<a href="https://leogytis.github.io/e-study/">E-study (project with TypeScript/React and Styled-components)</a><br>
-<a href="https://leogytis.github.io/braintech/">Braintech (Plain JavaScript coolaborate project at BIT coding school)</a><br>
-<a href="https://leogytis.github.io/gridster/">Gridster (Pathfinding project to show use cases of libraries)</a><br>
+<ul>
+  <li><a href="https://leogytis.github.io/">Portfolio page</a> - A showcase of personal projects and skills.</li>
+  <li><a href="https://leogytis.github.io/e-study/">E-study</a> - A project built with TypeScript, React, and Styled-components.</li>
+  <li><a href="https://leogytis.github.io/braintech/">Braintech</a> - A collaborative project using plain JavaScript, created at BIT coding school.</li>
+  <li><a href="https://leogytis.github.io/gridster/">Gridster</a> - A pathfinding project demonstrating use cases of libraries.</li>
+</ul>
+
 
 
 
