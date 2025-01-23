@@ -36,9 +36,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,materialui,styledcomponents,tailwind,bootstrap)](https://leogytis.github.io/)
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://leogytis.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs)](https://leogytis.github.io/)
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=redux,figma,postman,gitlab,nodejs)](https://leogytis.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=redux,figma,postman,gitlab)](https://leogytis.github.io/)
 <br><br>
 
 <h2>More about me:</h2>
