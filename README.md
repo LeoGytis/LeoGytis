@@ -20,6 +20,7 @@
 <h3>Personal</h3>
 <ul>
   <li><a href="https://leogytis.github.io/">Portfolio page</a> - A showcase of personal projects and skills.</li>
+  <li><a href="https://leogytis.github.io/betsy/">Betsy</a> - Betting platform lets users place bets and balance updates via WebSocket. Authentication is handled with JWT</li>
   <li><a href="https://leogytis.github.io/imageshub/">ImagesHub</a> - Project fetches images with Flickr API implementing both infinite scroll and lazy loading</li>
   <li><a href="https://leogytis.github.io/node-blog/">Node Blog</a> - Node.js with MongoDB blog CRUD - designed to manage a simple blogging platform.</li>
   <li><a href="https://leogytis.github.io/checkouter/">Checkouter</a> - Small project for payment checkout</li>
