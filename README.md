@@ -39,7 +39,7 @@
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs)](https://leogytis.github.io/)
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=redux,figma,postman,gitlab)](https://leogytis.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=redux,figma,postman,swagger)](https://leogytis.github.io/)
 <br><br>
 
 <h2>More about me:</h2>
@@ -61,7 +61,3 @@
 <a href="https://www.facebook.com/leogytis" title="Facebook" style="margin-right: 20px"><img src="icons/facebook.png" width="30" height="30"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn" style="padding-right: 20px"><img src="icons/linkedin.png" width="30" height="30"/></a> &nbsp;
 <a href="mailto:leogytis@gmail.com" title="Gmail"><img src="icons/gmail.png" width="30" height="27"/></a> &nbsp;
-<a href="https://gitlab.com/leogytis" title="GitLab" style="padding-right: 20px">
-    <img src="https://skillicons.dev/icons?i=gitlab" width="30" height="30" />
-</a>
-
