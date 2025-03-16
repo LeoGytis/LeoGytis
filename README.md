@@ -23,6 +23,7 @@
   <li><a href="https://leogytis.github.io/betsy/">Betsy</a> - Betting platform lets users place bets and balance updates via WebSocket. Authentication is handled with JWT</li>
   <li><a href="https://leogytis.github.io/imageshub/">ImagesHub</a> - Project fetches images with Flickr API implementing both infinite scroll and lazy loading</li>
   <li><a href="https://leogytis.github.io/node-blog/">Node Blog</a> - Node.js with MongoDB blog CRUD - designed to manage a simple blogging platform.</li>
+  <li><a href="https://leogytis.github.io/toolster/">Toolsterg</a> - A platform to keep myself informed about the stats I care about. Starting with weather forecast and country flags</li>
   <li><a href="https://leogytis.github.io/checkouter/">Checkouter</a> - Small project for payment checkout</li>
   <li><a href="https://leogytis.github.io/ip_royal/">Royal Dashboard</a> - Interactive dashboard using Tailwind and TypeScript and Vue.js framework.</li>
   <li><a href="https://github.com/LeoGytis/acterio">Acterio API</a> - Project, fetching data from the DummyJSON API and sending requests made in Next.js </li>
