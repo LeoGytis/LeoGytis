@@ -7,7 +7,7 @@
   <li>Passionate about technology and coding with energy and enthusiasm</li>
 </ul>
 
-<h2>Projects:</h2>
+<h2>💻 Projects:</h2>
 <h3>Professional</h3>
 <ul>
   <li><a href="https://acertip.com/">Acertip</a> - An innovative platform that unites architects, engineers, and constructors.</li>
@@ -34,7 +34,7 @@
 </ul><br>
 
 
-<h2>Languages & Tools:</h2>
+<h2>📱 Languages & Tools:</h2>
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,materialui,styledcomponents,tailwind,bootstrap)](https://leogytis.github.io/)
@@ -44,7 +44,7 @@
 [![My Skills](https://skillicons.dev/icons?i=redux,figma,postman,swagger)](https://leogytis.github.io/)
 <br><br>
 
-<h2>More about me:</h2>
+<h2>👨‍🚀 More about me:</h2>
 <div>👨‍🍳 Kitchen Chef (+10 years)</div>
 <div>🏍️ Motorcycling 3 seasons</div>
 <div>🤿 ScubaDiving +600 dives (Lithuanian lakes, Red Sea, Norwegian coast)</div>
@@ -59,7 +59,7 @@
 
 
 
-<h2>Reach me out:</h2>
+<h2>📬 Reach me out:</h2>
 <a href="https://www.facebook.com/leogytis" title="Facebook" style="margin-right: 20px"><img src="icons/facebook.png" width="30" height="30"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/gytis-leonavicius-74839519a/" title="LinkedIn" style="padding-right: 20px"><img src="icons/linkedin.png" width="30" height="30"/></a> &nbsp;
 <a href="mailto:leogytis@gmail.com" title="Gmail"><img src="icons/gmail.png" width="30" height="27"/></a> &nbsp;
