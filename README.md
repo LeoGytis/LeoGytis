@@ -10,10 +10,11 @@
 <h2>💻 Projects:</h2>
 <h3>Professional</h3>
 <ul>
+  <li><a href="https://instaxchange.com/">InstaXchange</a> - Platform to exchange crypto currencies.</li>
   <li><a href="https://acertip.com/">Acertip</a> - An innovative platform that unites architects, engineers, and constructors.</li>
-  <li><a href="https://www.acterio.com/">Acterio</a> - The definitive all-in-one management software designed for innovation ecosystems.</li>
-  <li><a href="https://sris.biip.lt/">SRIS</a> - A system for managing protected species information.</li>
-  <li><a href="https://medeja.lt/">Medeja</a> - Home-made wine and beer accessories e-shop.</li>
+  <li><a href="https://www.acterio.com/">Acterio</a> - The definitive all-in-one management software designed for startup and innovation ecosystems.</li>
+  <li><a href="https://sris.biip.lt/">SRIS</a> - A system for managing protected, endangered and invasive species information.</li>
+  <li><a href="https://medeja.lt/">Medeja</a> - Home-made wine, beer and cheese accessories e-shop.</li>
   <li><a href="https://futbolobatai.lt/">Futbolobatai</a> - Football shoes e-shop.</li>
 </ul>
 
